@@ -1,0 +1,184 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Luxurious Waterfront Estate",
+      "location": "123 Oceanview Drive, Malibu, CA 90265",
+      "price": "$8,950,000",
+      "description": "This extraordinary waterfront estate offers unparalleled luxury living with breathtaking ocean views. Perched on a bluff overlooking the Pacific, this architectural masterpiece features floor-to-ceiling windows that frame the spectacular coastline. The open-concept living spaces flow seamlessly to multiple terraces, creating an indoor-outdoor lifestyle that captures the essence of coastal living. The gourmet kitchen is equipped with top-of-the-line appliances, custom cabinetry, and a large center island perfect for entertaining. The primary suite is a sanctuary with a spa-like bathroom, walk-in closet, and private balcony. Additional amenities include a wine cellar, home theater, infinity pool, and private beach access.",
+      "features": {
+        "beds": 5,
+        "baths": 6.5,
+        "sqft": 7850,
+        "garage": "3-car",
+        "yearBuilt": 2020,
+        "lotSize": "1.2 acres",
+        "amenities": ["Infinity Pool", "Wine Cellar", "Home Theater", "Private Beach Access", "Smart Home Technology", "Outdoor Kitchen"]
+      },
+      "images": [
+        "https://images.pexels.com/photos/2581922/pexels-photo-2581922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2724079/pexels-photo-2724079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2119714/pexels-photo-2119714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2119713/pexels-photo-2119713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "featured": true,
+      "agent": {
+        "name": "Elizabeth Parker",
+        "phone": "(310) 555-8765",
+        "email": "elizabeth.parker@example.com",
+        "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Modern City Penthouse",
+      "location": "1100 Fifth Avenue, New York, NY 10128",
+      "price": "$6,750,000",
+      "description": "Experience the height of urban luxury in this stunning penthouse spanning the entire top floor of a prestigious Fifth Avenue building. Floor-to-ceiling windows showcase breathtaking 360-degree views of Central Park and the iconic Manhattan skyline. The grand living space features soaring 12-foot ceilings, white oak herringbone floors, and a gas fireplace with custom marble surround. The chef's kitchen is outfitted with Calacatta marble countertops, custom Italian cabinetry, and professional-grade appliances. Three generous bedroom suites include the primary retreat with dual walk-in closets and a spa bathroom with freestanding soaking tub. A private rooftop terrace offers the perfect setting for entertaining against the backdrop of the glittering city lights.",
+      "features": {
+        "beds": 3,
+        "baths": 3.5,
+        "sqft": 4200,
+        "garage": "2 parking spaces",
+        "yearBuilt": 2018,
+        "lotSize": "Full floor",
+        "amenities": ["Private Terrace", "24/7 Doorman", "Private Elevator", "Wine Room", "Home Office", "Smart Home System"]
+      },
+      "images": [
+        "https://images.pexels.com/photos/1571470/pexels-photo-1571470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "featured": true,
+      "agent": {
+        "name": "Michael Chen",
+        "phone": "(212) 555-3456",
+        "email": "michael.chen@example.com",
+        "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Mediterranean Villa Retreat",
+      "location": "5280 Palm Drive, Miami Beach, FL 33140",
+      "price": "$5,295,000",
+      "description": "Discover old-world charm and modern luxury in this magnificent Mediterranean villa located in exclusive Miami Beach. This meticulously crafted residence features hand-carved stone details, elegant archways, and authentic terracotta roof tiles. Inside, the soaring ceilings and generous living spaces create a sense of grandeur, while custom finishes add warmth throughout. The gourmet kitchen opens to a family room with French doors leading to the spectacular outdoor living area. The resort-style backyard is a private oasis with a stunning infinity-edge pool, spa, summer kitchen, and covered loggia. Lush tropical landscaping and mature palms provide privacy and create a tranquil atmosphere perfect for entertaining or relaxation.",
+      "features": {
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 5600,
+        "garage": "2-car",
+        "yearBuilt": 2017,
+        "lotSize": "0.4 acres",
+        "amenities": ["Infinity Pool", "Outdoor Kitchen", "Wine Cellar", "Home Gym", "Media Room", "Guest House"]
+      },
+      "images": [
+        "https://images.pexels.com/photos/32870/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1853552/pexels-photo-1853552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/3214064/pexels-photo-3214064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "featured": true,
+      "agent": {
+        "name": "Sophia Rodriguez",
+        "phone": "(305) 555-7890",
+        "email": "sophia.rodriguez@example.com",
+        "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Contemporary Mountain Estate",
+      "location": "78 Aspen Heights Road, Aspen, CO 81611",
+      "price": "$7,850,000",
+      "description": "This architectural masterpiece seamlessly blends with its majestic mountain surroundings, offering the ultimate luxury retreat. Walls of glass frame breathtaking views of the surrounding peaks, while natural materials like stone, wood, and steel create a warm yet contemporary aesthetic. The great room features a dramatic stone fireplace and soaring ceilings with exposed timber beams. The gourmet kitchen is a chef's dream with professional appliances, custom cabinetry, and a large center island. Five bedroom suites include a spectacular primary retreat with a spa-like bathroom and private deck. Additional highlights include a media room, wine cellar, fitness center, and heated outdoor living spaces designed for year-round enjoyment with hot tub and fire pit.",
+      "features": {
+        "beds": 5,
+        "baths": 5.5,
+        "sqft": 6800,
+        "garage": "3-car heated",
+        "yearBuilt": 2019,
+        "lotSize": "2.1 acres",
+        "amenities": ["Hot Tub", "Wine Cellar", "Media Room", "Fitness Center", "Ski Room", "Outdoor Fire Pit"]
+      },
+      "images": [
+        "https://images.pexels.com/photos/731082/pexels-photo-731082.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/7031595/pexels-photo-7031595.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2724079/pexels-photo-2724079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/280232/pexels-photo-280232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "featured": false,
+      "agent": {
+        "name": "Jackson Miller",
+        "phone": "(970) 555-2345",
+        "email": "jackson.miller@example.com",
+        "image": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Historic Brownstone Townhouse",
+      "location": "45 Beacon Street, Boston, MA 02108",
+      "price": "$4,495,000",
+      "description": "This meticulously restored 19th-century brownstone offers a perfect blend of historic character and modern luxury in Boston's prestigious Beacon Hill neighborhood. Original architectural details include soaring ceilings with crown moldings, hardwood floors, marble fireplaces, and a grand staircase. The parlor level features formal living and dining rooms with large windows and elegant proportions. The chef's kitchen has been completely updated with custom cabinetry, marble countertops, and professional appliances. Four bedroom suites include the primary retreat with a walk-in closet and luxurious bathroom. A private garden and roof deck provide outdoor living space in this premier urban location, just steps from Boston Common and the city's finest restaurants and cultural attractions.",
+      "features": {
+        "beds": 4,
+        "baths": 3.5,
+        "sqft": 4100,
+        "garage": "2 parking spaces",
+        "yearBuilt": 1890,
+        "lotSize": "0.1 acres",
+        "amenities": ["Roof Deck", "Garden", "Wine Cellar", "Multiple Fireplaces", "Smart Home System", "Elevator"]
+      },
+      "images": [
+        "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1743227/pexels-photo-1743227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2119805/pexels-photo-2119805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/4352247/pexels-photo-4352247.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "featured": false,
+      "agent": {
+        "name": "Emily Williams",
+        "phone": "(617) 555-9087",
+        "email": "emily.williams@example.com",
+        "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Minimalist Desert Oasis",
+      "location": "200 Canyon View Drive, Scottsdale, AZ 85255",
+      "price": "$3,895,000",
+      "description": "This architectural gem offers a stunning example of modern desert living where clean lines and natural materials create harmony with the spectacular Sonoran Desert surroundings. Walls of glass blur the boundary between indoors and out, framing breathtaking views of Camelback Mountain. The open floor plan features polished concrete floors, custom wood cabinetry, and a floating steel staircase. The chef's kitchen integrates seamlessly with the living space, featuring waterfall-edge quartz countertops and premium appliances. The primary suite is a serene retreat with mountain views and a spa-inspired bathroom. Multiple outdoor living areas include a negative-edge pool, fire features, and covered patios designed to embrace the indoor-outdoor lifestyle in this exclusive Paradise Valley location.",
+      "features": {
+        "beds": 4,
+        "baths": 4.5,
+        "sqft": 4800,
+        "garage": "3-car",
+        "yearBuilt": 2021,
+        "lotSize": "1.0 acres",
+        "amenities": ["Infinity Pool", "Outdoor Shower", "Fire Pit", "Smart Home Technology", "Wine Room", "Outdoor Kitchen"]
+      },
+      "images": [
+        "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2119713/pexels-photo-2119713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2724079/pexels-photo-2724079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "featured": false,
+      "agent": {
+        "name": "Daniel Thompson",
+        "phone": "(480) 555-6543",
+        "email": "daniel.thompson@example.com",
+        "image": "https://images.pexels.com/photos/937481/pexels-photo-937481.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    }
+  ]
+}
